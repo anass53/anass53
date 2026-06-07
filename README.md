@@ -20,3 +20,4 @@ Spécialisé dans la construction de pipelines ETL, la transformation de donnée
 
 ## 📫 Contact
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anass-e-23197729b/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:anasselrhaiti10@gmail.com)
