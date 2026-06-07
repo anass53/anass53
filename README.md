@@ -21,4 +21,4 @@ Spécialisé dans la construction de pipelines ETL, la transformation de donnée
 | [dbt Bootcamp](https://github.com/anass53/dbt-bootcamp) | Transformations dbt 3 couches + 19 tests | dbt · SQL · PostgreSQL |
 
 ## 📫 Contact
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/ton-profil)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anass-e-23197729b/)
