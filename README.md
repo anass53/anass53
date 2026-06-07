@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Anass El Rhaiti — Data Engineer
 
 ## 👋 About me
