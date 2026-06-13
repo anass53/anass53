@@ -1,7 +1,7 @@
-# Anass El Rhaiti — Data Engineer
+# Anass El Rhaiti — Consultant Data
 
 ## 👋 About me
-Data Engineer junior basé à **Bruxelles** avec 2 ans d'expérience en entreprise (Keolis, Ovalo).
+Data Engineer basé à **Bruxelles** avec 2 ans d'expérience en entreprise (Keolis, Ovalo).
 Spécialisé dans la construction de pipelines ETL, la transformation de données avec dbt et l'orchestration avec Airflow.
 
 ## 🛠️ Tech Stack
